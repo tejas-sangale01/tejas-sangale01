@@ -4,7 +4,8 @@
 
   > By Arsh Goyal Bhaiya
 - ⭐️ I’m currently learning **Machine Learning, Data Structures and Algorithms.**
-- Connect with me on : [Linkedin - Tejas Sangale](https://www.linkedin.com/in/tejas-sangale-8702121b0/) |  [Instagram - @tejass.s_](https://www.instagram.com/tejass.s_/).
+## Connect with me on: 
+<a href="https://www.linkedin.com/in/tejas-sangale-8702121b0/"><img align="left" src="https://raw.githubusercontent.com/tejas-sangale01/tejas-sangale01/main/images/linkedin (1).png" alt="icon | LinkedIn" width="21px"/></a>
 
 <!--
 **tejas-sangale01/tejas-sangale01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
