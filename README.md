@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello Tejas here 👋🏻
+
+- 🔭 I’m currently working on #6Companies30Days Challenge.
+
+  > By Arsh Goyal Bhaiya
+- ⭐️ I’m currently learning **Machine Learning, Data Structures and Algorithms.**
+- Connect with me on : [Linkedin - Tejas Sangale](https://www.linkedin.com/in/tejas-sangale-8702121b0/) |  [Instagram - @tejass.s_](https://www.instagram.com/tejass.s_/).
 
 <!--
 **tejas-sangale01/tejas-sangale01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
