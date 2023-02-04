@@ -2,9 +2,9 @@
 
 ## Hello Tejas here 👋🏻
 
-- 🔭 I’m currently working on #6Companies30Days Challenge.
+- 🔭 I’m currently pursuing B.Tech in Computer Science and Engineering at NIT, Silchar.
 
-  > By Arsh Goyal Bhaiya
+<!--   > By Arsh Goyal Bhaiya -->
 - ⭐️ I’m currently learning **Machine Learning, Data Structures and Algorithms.**
 ## Connect with me on: 
 <a href="https://www.linkedin.com/in/tejas-sangale-8702121b0/"><img align="left" src="https://raw.githubusercontent.com/tejas-sangale01/tejas-sangale01/main/images/linkedin (1).png" alt="icon | LinkedIn" width="28px"/></a>
